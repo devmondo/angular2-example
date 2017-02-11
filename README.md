@@ -16,4 +16,7 @@ See the working demo [here](https://fuse-box.github.io/angular2-example/)!
 * `npm install`
 * `npm start`
 
+if you face this error `Error: ENOENT: no such file or directory, scandir '/Users/Pac/Code/angular2-example/node_modules/node-sass/vendor'
+    at Error (native)` it is a well known `node-sass` issue specially if you are on `windows` machine, please check this issue to see how to fix it [Page stuck at "Loading...](https://github.com/fuse-box/angular2-example/issues/12)
+    
 Visit `http://localhost:4445/`
